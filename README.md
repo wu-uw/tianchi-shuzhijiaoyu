@@ -3,9 +3,9 @@
 
 比赛链接：https://tianchi.aliyun.com/competition/entrance/231704/introduction?spm=5176.12281965.1006.1.835b2448aZfN0w
 
-原始数据：data
+原始数据：education_data
 
-作品源代码及数据：
+作品源代码及数据：all.zip
 
 作品链接： http://47.100.37.193:3838/education/all/
 
